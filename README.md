@@ -1,3 +1,5 @@
+![Logo](https://github.com/wohmiguel/wohmiguel/blob/main/logo.png?raw=true) 
+
 ## Welcome to my profile!
 
 👋  Hi! Welcome to my profile, I’m Miguel.
